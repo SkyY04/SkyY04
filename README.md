@@ -5,17 +5,20 @@
 
 - 🔭 I’m currently working on **Leet Code Data Structures**
 
-- 👨‍💻 Check my LinkedIn &emsp;&emsp;
+- 👨‍💻 Check my **LinkedIn** &emsp;&emsp;
   <a href="https://linkedin.com/in/sky-saeha-yoon" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" width="50" height="50">
 </a>
 
-- 👨‍💻 Check my Resume &emsp;&emsp;&nbsp;
+- 👨‍💻 Check my **Resume** &emsp;&emsp;&nbsp;
   <a href="resume-SkyYoon.pdf" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" alt="Resume" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Light.svg" alt="Resume" width="50" height="50">
 </a>
 
-- 📫 How to reach me &emsp;&emsp;&ensp; **sayhay04@gmail.com**
+- 📫 How to reach me **Email** &nbsp;
+  <a href="mailto:sayhay04@gmail.com" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="email" width="50" height="50">
+</a>
 
 - ⚡ Fun fact &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**I like do crochet and rubik's cube**🙌
 
