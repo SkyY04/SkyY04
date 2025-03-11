@@ -1,11 +1,19 @@
 <h1 align="center">Hello, I am Sky🌤Yoon</h1>
 <h3 align="center">Looking for full-time position</h3>
-<img align="right" alt="Coding" width="400" ![image](https://github.com/user-attachments/assets/60acbe4b-fc68-4897-820a-ce040d1a3b31)>
+
 
 
 - 🔭 I’m currently working on **Leet Code Data Structures**
 
-- 👨‍💻 Check my LinkedIn &emsp;&emsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sky-saeha-yoon)
+- 👨‍💻 Check my LinkedIn &emsp;&emsp;
+  <a href="https://linkedin.com/in/sky-saeha-yoon" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" width="50" height="50">
+</a>
+
+- 👨‍💻 Check my Resume &emsp;&emsp;&nbsp;
+  <a href="resume-SkyYoon.pdf" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" alt="Resume" width="50" height="50">
+</a>
 
 - 📫 How to reach me &emsp;&emsp;&ensp; **sayhay04@gmail.com**
 
