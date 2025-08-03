@@ -1,5 +1,7 @@
 <h1 align="center">Hello, I am Sky🌤Yoon</h1>
-<h3 align="center">Looking for full-time position</h3>
+<h3 align="center">Looking for full-time position
+<img src="https://user-images.githubusercontent.com/60609786/219664623-7b5c7889-a785-4d4b-a028-1d1299ce4beb.gif" alt="cat" width="30" height="30">
+</h3>
 
 # 💻 Tech Stack
 <h3 align="left">Programming Languages:</h3>
@@ -14,7 +16,10 @@
 <h3 align="left">Project Management:</h3>
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+<img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif">&emsp;&emsp;
 <br><br>
+
 
 - 👨‍💻 Check my **LinkedIn** &emsp;&emsp;
   <a href="https://linkedin.com/in/sky-saeha-yoon" target="_blank">
@@ -30,7 +35,8 @@
   <a href="mailto:sayhay04@gmail.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="email" width="50" height="50">
 </a>
- ![](https://github.com/SkyY04/SkyY04/blob/main/pacman.gif)
+
+
 
 
 # 📊 GitHub Stats:
