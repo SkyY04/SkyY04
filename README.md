@@ -8,14 +8,13 @@
 <h3 align="left">Data Analysis:</h3>
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-<h3 align="left">SaaS (Software as a Service) Tools:</h3>
+<h3 align="left">SaaS Tools:</h3>
 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 <h3 align="left">Project Management:</h3>
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <br><br>
-- 🔭 I’m currently working on **Leet Code Data Structures**
 
 - 👨‍💻 Check my **LinkedIn** &emsp;&emsp;
   <a href="https://linkedin.com/in/sky-saeha-yoon" target="_blank">
@@ -31,8 +30,6 @@
   <a href="mailto:sayhay04@gmail.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="email" width="50" height="50">
 </a>
-
-- ⚡ Fun fact &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**I like do crochet and rubik's cube**🙌
 
 
 # 📊 GitHub Stats:
