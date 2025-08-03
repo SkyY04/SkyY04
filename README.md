@@ -30,7 +30,7 @@
   <a href="mailto:sayhay04@gmail.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="email" width="50" height="50">
 </a>
-![212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c](https://github.com/user-attachments/assets/777d45a5-b14d-4d27-8422-18df731b9d73)
+ ![](https://github.com/SkyY04/SkyY04/blob/main/pacman.gif)
 
 
 # 📊 GitHub Stats:
