@@ -43,4 +43,4 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=SkyY04&theme=buefy&hide_border=true)&emsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyY04&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=SkyY04&theme=buefy&hide_border=true&include_all_commits=false&count_private=false)
+
